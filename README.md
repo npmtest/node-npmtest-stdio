@@ -1,4 +1,7 @@
-# test coverage for  [stdio (v0.2.7)](https://github.com/sgmonda/stdio)  [![npm package](https://img.shields.io/npm/v/npmtest-stdio.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-stdio) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-stdio.svg)](https://travis-ci.org/npmtest/node-npmtest-stdio)
+# npmtest-stdio
+
+#### basic test coverage for  [stdio (v0.2.7)](https://github.com/sgmonda/stdio)  [![npm package](https://img.shields.io/npm/v/npmtest-stdio.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-stdio) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-stdio.svg)](https://travis-ci.org/npmtest/node-npmtest-stdio)
+
 #### Standard input/output management with NodeJS
 
 [![NPM](https://nodei.co/npm/stdio.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/stdio)
